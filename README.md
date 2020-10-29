@@ -1,4 +1,4 @@
-<img src="https://github.com/RobertBroersma/RobertBroersma/blob/main/graphic.svg">
+<img width="550" src="https://github.com/RobertBroersma/RobertBroersma/blob/main/graphic.svg">
 
 
 ### Hi there 👋
