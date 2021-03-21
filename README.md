@@ -5,6 +5,6 @@
 
 I'm Robert
 
-- 🔭 I’m currently working on [OnlyPlants](https://onlyplants.app) and [Statik.ly](https://statik.ly)
+- 🔭 I’m currently working on [OnlyPlants](https://onlyplants.app)
 - 🌱 I’m currently learning Croatian
 - 📫 How to reach me: [📧](mailto:robertbroersma@gmail.com)
