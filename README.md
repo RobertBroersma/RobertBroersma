@@ -5,6 +5,6 @@
 
 I'm Robert
 
-- 🔭 I’m currently working on [Topo.ink](https://topo.ink)
+- 🔭 I’m currently working at [Lightyear](https://lightyear.one/)
 - 🌱 I’m currently learning how to play the piano
 - 📫 How to reach me: [📧](mailto:robertbroersma@gmail.com)
