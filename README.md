@@ -6,5 +6,5 @@
 I'm Robert
 
 - 🔭 I’m currently working at [Wolk](https://wolk.work/)
-- 🌱 I’m currently learning how to play the piano
+- 🌱 I’m currently learning music production with Ableton Live
 - 📫 How to reach me: [📧](mailto:robertbroersma@gmail.com)
